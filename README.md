@@ -1,8 +1,9 @@
 ## DevOps Workshop Test Task
 
-Для задания использовалось приложение https://github.com/anfederico/Flaskex
+Для задания использовалось приложение https://github.com/anfederico/Flaskex  
+Правообладатель anfederico.
 
-Для отладки и запуска приложения сделана рабочая копия репозитория https://github.com/xxxREDBORNxxx/flaskex.git
+Для отладки и запуска приложения сделана рабочая копия репозитория https://github.com/xxxREDBORNxxx/flaskex.git  
 Рабочая копия используется в Dockerfile.
 
 Для запуска приложения в модуле forms.py в связи с измененениями в версии 1.02  WTForms классов средств проверки подлинности
