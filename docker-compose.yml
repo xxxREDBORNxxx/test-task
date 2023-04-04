@@ -1,0 +1,6 @@
+version: "2.15.1"
+services:
+  flaskex:
+    build: .
+    ports:
+      - "5000:5000"
